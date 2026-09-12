@@ -16,9 +16,8 @@ Kişisel projelerimi ve yetkinliklerimi sergilediğim dijital CV ve arşiv.
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **Vite**
 
 ---
 
 > **⚠️ Önemli Not:** 
-> Bu depo, projenin tanıtım (vitrin) amacı taşıyan genel görünümüdür. Kaynak kodlar, izinsiz kullanımı önlemek amacıyla paylaşılmamaktadır.
+> Bu depo, projenin tanıtım (vitrin) amacı taşıyan genel görünümüdür.
